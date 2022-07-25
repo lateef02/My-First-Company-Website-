@@ -34,7 +34,7 @@ header a {
 .section_1 {
   display: flex;
   justify-content: left;
-  background-image: url(./image/hexo.JPG);
+  background-image: url(../image/hexo.JPG);
   background-repeat: no-repeat;
   background-size: cover;
   width: auto;
